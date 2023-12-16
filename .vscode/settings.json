@@ -1,0 +1,27 @@
+{
+    "ros.distro": "humble",
+    "ros.rosSetupScript": "/opt/ros/humble/install/setup.bash",
+    "ros.isolateEnvironment": "false",
+    "python.autoComplete.extraPaths": [
+        "/home/xinzhi/robotics_project/ttt_robot/build/ttt_perception",
+        "/home/xinzhi/robotics_project/ttt_robot/install/ttt_perception/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/xinzhi/robotics_project/ttt_robot/build/ttt_perception",
+        "/home/xinzhi/robotics_project/ttt_robot/install/ttt_perception/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "files.associations": {
+        "chrono": "cpp",
+        "variant": "cpp",
+        "regex": "cpp",
+        "memory": "cpp",
+        "future": "cpp",
+        "istream": "cpp",
+        "functional": "cpp"
+    },
+    "cmake.sourceDirectory": "/home/xinzhi/robotics_project/ttt_robot/src/DynamixelSDK/dynamixel_sdk_examples"
+}

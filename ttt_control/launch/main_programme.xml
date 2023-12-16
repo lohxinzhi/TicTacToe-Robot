@@ -1,0 +1,14 @@
+<launch>
+  <node pkg="ttt_perception" exec="cv2_to_ros2" name="cv2_to_ros2"/>
+  <node pkg="ttt_perception" exec="img_to_pos" name="img_to_pose"/>
+  <node pkg="ttt_perception" exec="playing_field_pub" name="playing_field_pub"/>
+
+  <node pkg="ttt_control" exec="robot_master" name="robot_master"/>
+
+  <node pkg="ttt_kinematics" exec="motion_planner" name="motion_planner"/>
+  <node pkg="ttt_kinematics" exec="inverse_kinematics" name="inverse_kinematics"/>
+  <node pkg="ttt_kinematics" exec="joints_angle_to_data" name="joints_angle_to_data"/>
+
+  <node pkg="dynamixel_sdk_examples" exec="joint_controller" name="joint_controller"/>
+
+</launch>

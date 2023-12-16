@@ -1,0 +1,7 @@
+# Constants
+# Request
+bool get
+---
+# Response
+int8[] id
+int32[] position
