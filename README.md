@@ -1,4 +1,4 @@
-# Tic Tac Toe Robot for MA4825 Project AY23/24 S1
+# Tic Tac Toe Robot for NTU MA4825 Project AY23/24 S1
 > Team members:  
 > - Loh Xin Zhi
 > - Loke Kum Yew
