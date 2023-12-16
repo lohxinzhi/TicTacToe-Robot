@@ -11,7 +11,7 @@ Project Details:
 > OS: Ubuntu 22.04.3 LTS  
 > ROS2 distro: Humble
 
-## Project Descroption
+## Project Description
 This project aims to design a robotic arm capable of intelligence to play a game of tic tac toe. ROS2 is used as the main communication architecture.
 
 ## Installing Package
