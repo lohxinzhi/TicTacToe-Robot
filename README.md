@@ -14,6 +14,8 @@ Project Details:
 ## Project Description
 This project aims to design a robotic arm capable of intelligence to play a game of tic tac toe. ROS2 is used as the main communication architecture.
 
+The robotic arm is constructed with 3D printed parts, together with Dynamixel AX-12A and AX-18A smart actuators.
+
 ## Installing Package
 1. Create a new workspace with a `src` subfolder and change directory to `src`. In the terminal,  
 ```
