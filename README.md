@@ -1,5 +1,5 @@
 # Tic Tac Toe Robot for NTU MA4825 Project AY23/24 S1
-> Team members:  (test)
+> Team members:  (test test)
 > - Loh Xin Zhi
 > - Loke Kum Yew
 > - Thio Zheng Yang  
